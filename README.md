@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Musify
 
 Develop an elegant React.js Music Application. 
 
