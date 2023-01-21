@@ -1,6 +1,6 @@
 # Project Musify
 
-This React application is a clone of Spotify. It uses RapidAPI to fetch the songs from Shazam and Tailwind to style the frontend.  
+This React application is a clone of Spotify. It uses RapidAPI to fetch the songs from ShazamCore and Tailwind to style the frontend.  
 
 
 
