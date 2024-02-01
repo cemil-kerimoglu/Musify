@@ -1,1 +1,1 @@
-2:49:56
+This React application is a clone of Spotify. It uses RapidAPI to fetch the songs from ShazamCore and Tailwind to style the frontend.
